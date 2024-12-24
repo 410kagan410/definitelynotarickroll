@@ -1,0 +1,10 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid cyan;
+    padding: 10px;
+  }
+  .center .header {
+    padding: 70px 0;
+    text-align: center;
+  }
