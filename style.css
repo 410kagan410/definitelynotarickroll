@@ -1,11 +1,9 @@
 .center {
     margin: auto;
-    width: 67%;
-    border: 3px solid cyan;
+    width: 70%;
     padding: 10px;
   }
   .center .header {
-    padding: 70px 0;
     text-align: center;
   }
   .center .video {
